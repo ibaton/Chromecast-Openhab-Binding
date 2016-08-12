@@ -1,3 +1,5 @@
+# WARNING! HAVE NOT USED BINDING IN A WHILE. PROBABLY NOT WORKING!
+
 # Chromecast-Openhab-Binding
 Chromecast plugin for openhab
 
